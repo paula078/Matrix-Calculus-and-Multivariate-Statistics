@@ -8,7 +8,7 @@ The programs are written along with <a href="https://github.com/Karol0801">Karol
 Implementation of Binet's classical algorithm and its modification.
 Performance Analysis: Presents observations on the impact of the "l" parameter on multiplication execution time and the number of floating-point operations.
 
-## Program_2: "Gaussian Elimination and LU Factorization"
+## Program_2 "Gaussian Elimination and LU Factorization"
 Implementation of methods for solving systems of linear equations, utilizing the following techniques:
 
 - Gaussian Elimination (with and without pivoting)
